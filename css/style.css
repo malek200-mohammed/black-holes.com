@@ -1,0 +1,57 @@
+.hehe{
+color: white; background: black;
+}
+
+.title2{
+  color:white;
+}
+
+
+th: {
+  color:red;
+}
+
+
+#nasa1:link {
+color: blue;
+}
+
+#nasa1:visited{
+color: blue;
+}
+
+.wormii:link{
+  color:blue;
+}
+.wormii:visited{
+color:blue;
+}
+
+textarea ~ button{
+  color:red;
+}
+
+ol > li{
+  color: white;
+}
+
+body{
+background: url(https://imgs.search.brave.com/OiMGodp33DZm3rnZJq5hWaqf8AL1SeXUquyjiXIW4ic/rs:fit:844:225:1/g:ce/aHR0cHM6Ly90c2Uz/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5G/TlhsaVNSR1lGM0Qy/Z0EySE4yd1pnSGFF/SyZwaWQ9QXBp)
+}
+
+.last{
+color:white;
+}
+
+#a{
+  color:red;
+}
+
+
+#b{
+color:white;
+}
+
+#c{
+  color:white;
+}
